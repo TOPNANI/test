@@ -1,0 +1,5 @@
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINWwu5Qip0b84Vj/pH/CmkMpS+ZhDtzIaa943PQzzgv4 m.ilya465yandex.ru
+
+quit
+exit
+ssh-keygen -t ed25519 -C m.ilya465yandex.ru
